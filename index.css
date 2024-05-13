@@ -1,29 +1,4 @@
-header{
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    background-color: #e8e9f0;
-    padding: 0px 5%; /*top and buttom, left and right*/
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    /*z-index: 1000;*/
-    box-shadow: 0 5px 10px rgba(242, 240, 247, 0.973);
-}
-header .navbar ul{
-    list-style: none;
-}
-header .navbar ul li{
-    position: relative;
-    float: left;
-} 
-header .navbar ul li a{ 
-    font-size: 20px;
-    padding: 4px;
-    color: #333;
-    display: block;
-}
+
 
 *{
     margin: 0;
